@@ -1,9 +1,12 @@
-# Pick a random name 
-A new Flutter project.
+# Information
 
-## Getting Started
-This project is a starting point for a Flutter application.
+| english word | provider | flutter |
+|--------------|----------|---------|
+| v4.0.0       | 6.0.0    | 3.7.5   |
+---
+Project Idea
+- An app to display and select random names.
+---
+# Objetives
+- Practice Widgets.
 
-- For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
